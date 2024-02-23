@@ -1,2 +1,2 @@
 # Jackpot
-Smart Contract for "Jackpot" mode.
+Smart Contracts for "Jackpot" mode.
